@@ -1,1 +1,1 @@
-# SchoolDatabase
+School Database
